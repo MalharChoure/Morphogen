@@ -11,12 +11,11 @@ ___  ___                 _
 
 ---
 
-##### Oh no, you've transformed... Your assistant messed up your experiment and now you've turned into a bug.
+##### To become unstopable you have created morphogen but before you gain the powers of the anthropods you must master them.
 
 # Goal:
 
-<br>Defeat hostile creatures using each bug's unique powers and find your way through a maze of obstacles.
-Make it to the end and collect the essence of the Everendis flower to transform back into a human.
+<br>Train in the harsh environment of the island and master your new found powers.
 
 # Instructions:
 
